@@ -38,3 +38,7 @@ This project creates a sequential light effect where LEDs light up one by one, c
 1. Connect the **anode** (long leg) of each LED to its corresponding Arduino digital pin
 2. Connect the **cathode** (short leg) of each LED to a 220Ω resistor
 3. Connect the other end of each resistor to **GND** (ground)
+
+
+<img width="1076" height="586" alt="image" src="https://github.com/user-attachments/assets/74e88e0b-3802-415b-a0f0-3794a15a5072" />
+
